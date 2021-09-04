@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <parameters>
   <parameter name="IIS Web Application Name" description="" value="RPMCRUDAPIs20210808220332Demo" tags="IisApp">
-    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Ashok\\Medical\ company\\Annex_iOT\\RPMCRUDAPIs\\RPMCRUDAPIs\\obj\\Release\\netcoreapp2\.1\\PubTmp\\Out\\$" />
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Ashok\\github\\Annex_IOT\\RPMCRUDAPIs\\obj\\Release\\netcoreapp2\.1\\PubTmp\\Out\\$" />
   </parameter>
 </parameters>

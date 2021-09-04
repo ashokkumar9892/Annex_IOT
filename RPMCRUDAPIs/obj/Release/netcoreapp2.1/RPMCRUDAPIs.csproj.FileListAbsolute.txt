@@ -18,3 +18,23 @@ C:\Ashok\Medical company\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\obj\Release\netcoreap
 C:\Ashok\Medical company\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\obj\Release\netcoreapp2.1\RPMCRUDAPIs.dll
 C:\Ashok\Medical company\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\obj\Release\netcoreapp2.1\RPMCRUDAPIs.pdb
 C:\Ashok\Medical company\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\obj\Release\netcoreapp2.1\RPMCRUDAPIs.genruntimeconfig.cache
+C:\Ashok\github\Annex_IOT\RPMCRUDAPIs\bin\Release\netcoreapp2.1\web.config
+C:\Ashok\github\Annex_IOT\RPMCRUDAPIs\bin\Release\netcoreapp2.1\appsettings.Development.json
+C:\Ashok\github\Annex_IOT\RPMCRUDAPIs\bin\Release\netcoreapp2.1\appsettings.json
+C:\Ashok\github\Annex_IOT\RPMCRUDAPIs\bin\Release\netcoreapp2.1\aws-lambda-tools-defaults.json
+C:\Ashok\github\Annex_IOT\RPMCRUDAPIs\bin\Release\netcoreapp2.1\libman.json
+C:\Ashok\github\Annex_IOT\RPMCRUDAPIs\bin\Release\netcoreapp2.1\RPMCRUDAPIs.deps.json
+C:\Ashok\github\Annex_IOT\RPMCRUDAPIs\bin\Release\netcoreapp2.1\RPMCRUDAPIs.runtimeconfig.json
+C:\Ashok\github\Annex_IOT\RPMCRUDAPIs\bin\Release\netcoreapp2.1\RPMCRUDAPIs.runtimeconfig.dev.json
+C:\Ashok\github\Annex_IOT\RPMCRUDAPIs\bin\Release\netcoreapp2.1\RPMCRUDAPIs.dll
+C:\Ashok\github\Annex_IOT\RPMCRUDAPIs\bin\Release\netcoreapp2.1\RPMCRUDAPIs.pdb
+C:\Ashok\github\Annex_IOT\RPMCRUDAPIs\obj\Release\netcoreapp2.1\RPMCRUDAPIs.csprojAssemblyReference.cache
+C:\Ashok\github\Annex_IOT\RPMCRUDAPIs\obj\Release\netcoreapp2.1\RPMCRUDAPIs.AssemblyInfoInputs.cache
+C:\Ashok\github\Annex_IOT\RPMCRUDAPIs\obj\Release\netcoreapp2.1\RPMCRUDAPIs.AssemblyInfo.cs
+C:\Ashok\github\Annex_IOT\RPMCRUDAPIs\obj\Release\netcoreapp2.1\RPMCRUDAPIs.csproj.CoreCompileInputs.cache
+C:\Ashok\github\Annex_IOT\RPMCRUDAPIs\obj\Release\netcoreapp2.1\RPMCRUDAPIs.RazorAssemblyInfo.cache
+C:\Ashok\github\Annex_IOT\RPMCRUDAPIs\obj\Release\netcoreapp2.1\RPMCRUDAPIs.RazorAssemblyInfo.cs
+C:\Ashok\github\Annex_IOT\RPMCRUDAPIs\obj\Release\netcoreapp2.1\RPMCRUDAPIs.RazorTargetAssemblyInfo.cache
+C:\Ashok\github\Annex_IOT\RPMCRUDAPIs\obj\Release\netcoreapp2.1\RPMCRUDAPIs.dll
+C:\Ashok\github\Annex_IOT\RPMCRUDAPIs\obj\Release\netcoreapp2.1\RPMCRUDAPIs.pdb
+C:\Ashok\github\Annex_IOT\RPMCRUDAPIs\obj\Release\netcoreapp2.1\RPMCRUDAPIs.genruntimeconfig.cache
