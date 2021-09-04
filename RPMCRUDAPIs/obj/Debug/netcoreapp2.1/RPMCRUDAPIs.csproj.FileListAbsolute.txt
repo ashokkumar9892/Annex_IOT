@@ -1,0 +1,101 @@
+C:\Users\lisp\source\repos\RPMCRUDAPIs\RPMCRUDAPIs\bin\Debug\netcoreapp2.1\RPMCRUDAPIs.deps.json
+C:\Users\lisp\source\repos\RPMCRUDAPIs\RPMCRUDAPIs\bin\Debug\netcoreapp2.1\RPMCRUDAPIs.runtimeconfig.json
+C:\Users\lisp\source\repos\RPMCRUDAPIs\RPMCRUDAPIs\bin\Debug\netcoreapp2.1\RPMCRUDAPIs.runtimeconfig.dev.json
+C:\Users\lisp\source\repos\RPMCRUDAPIs\RPMCRUDAPIs\bin\Debug\netcoreapp2.1\RPMCRUDAPIs.dll
+C:\Users\lisp\source\repos\RPMCRUDAPIs\RPMCRUDAPIs\obj\Debug\netcoreapp2.1\RPMCRUDAPIs.csproj.CoreCompileInputs.cache
+C:\Users\lisp\source\repos\RPMCRUDAPIs\RPMCRUDAPIs\obj\Debug\netcoreapp2.1\RPMCRUDAPIs.RazorAssemblyInfo.cache
+C:\Users\lisp\source\repos\RPMCRUDAPIs\RPMCRUDAPIs\obj\Debug\netcoreapp2.1\RPMCRUDAPIs.RazorAssemblyInfo.cs
+C:\Users\lisp\source\repos\RPMCRUDAPIs\RPMCRUDAPIs\obj\Debug\netcoreapp2.1\RPMCRUDAPIs.AssemblyInfoInputs.cache
+C:\Users\lisp\source\repos\RPMCRUDAPIs\RPMCRUDAPIs\obj\Debug\netcoreapp2.1\RPMCRUDAPIs.AssemblyInfo.cs
+C:\Users\lisp\source\repos\RPMCRUDAPIs\RPMCRUDAPIs\obj\Debug\netcoreapp2.1\RPMCRUDAPIs.RazorTargetAssemblyInfo.cache
+C:\Users\lisp\source\repos\RPMCRUDAPIs\RPMCRUDAPIs\bin\Debug\netcoreapp2.1\RPMCRUDAPIs.pdb
+C:\Users\lisp\source\repos\RPMCRUDAPIs\RPMCRUDAPIs\obj\Debug\netcoreapp2.1\RPMCRUDAPIs.dll
+C:\Users\lisp\source\repos\RPMCRUDAPIs\RPMCRUDAPIs\obj\Debug\netcoreapp2.1\RPMCRUDAPIs.pdb
+C:\Users\lisp\source\repos\RPMCRUDAPIs\RPMCRUDAPIs\obj\Debug\netcoreapp2.1\RPMCRUDAPIs.csprojAssemblyReference.cache
+E:\AnnexIOTRepo\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\bin\Debug\netcoreapp2.1\RPMCRUDAPIs.deps.json
+E:\AnnexIOTRepo\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\bin\Debug\netcoreapp2.1\RPMCRUDAPIs.runtimeconfig.json
+E:\AnnexIOTRepo\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\bin\Debug\netcoreapp2.1\RPMCRUDAPIs.runtimeconfig.dev.json
+E:\AnnexIOTRepo\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\bin\Debug\netcoreapp2.1\RPMCRUDAPIs.dll
+E:\AnnexIOTRepo\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\bin\Debug\netcoreapp2.1\RPMCRUDAPIs.pdb
+E:\AnnexIOTRepo\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\obj\Debug\netcoreapp2.1\RPMCRUDAPIs.csprojAssemblyReference.cache
+E:\AnnexIOTRepo\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\obj\Debug\netcoreapp2.1\RPMCRUDAPIs.csproj.CoreCompileInputs.cache
+E:\AnnexIOTRepo\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\obj\Debug\netcoreapp2.1\RPMCRUDAPIs.RazorAssemblyInfo.cache
+E:\AnnexIOTRepo\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\obj\Debug\netcoreapp2.1\RPMCRUDAPIs.RazorAssemblyInfo.cs
+E:\AnnexIOTRepo\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\obj\Debug\netcoreapp2.1\RPMCRUDAPIs.AssemblyInfoInputs.cache
+E:\AnnexIOTRepo\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\obj\Debug\netcoreapp2.1\RPMCRUDAPIs.AssemblyInfo.cs
+E:\AnnexIOTRepo\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\obj\Debug\netcoreapp2.1\RPMCRUDAPIs.RazorTargetAssemblyInfo.cache
+E:\AnnexIOTRepo\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\obj\Debug\netcoreapp2.1\RPMCRUDAPIs.dll
+E:\AnnexIOTRepo\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\obj\Debug\netcoreapp2.1\RPMCRUDAPIs.pdb
+F:\Laitkor\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\obj\Debug\netcoreapp2.1\RPMCRUDAPIs.csprojAssemblyReference.cache
+F:\Laitkor\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\obj\Debug\netcoreapp2.1\RPMCRUDAPIs.AssemblyInfoInputs.cache
+F:\Laitkor\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\obj\Debug\netcoreapp2.1\RPMCRUDAPIs.AssemblyInfo.cs
+F:\Laitkor\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\obj\Debug\netcoreapp2.1\RPMCRUDAPIs.csproj.CoreCompileInputs.cache
+F:\Laitkor\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\obj\Debug\netcoreapp2.1\RPMCRUDAPIs.RazorAssemblyInfo.cache
+F:\Laitkor\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\obj\Debug\netcoreapp2.1\RPMCRUDAPIs.RazorAssemblyInfo.cs
+F:\Laitkor\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\obj\Debug\netcoreapp2.1\RPMCRUDAPIs.dll
+F:\Laitkor\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\obj\Debug\netcoreapp2.1\RPMCRUDAPIs.pdb
+F:\Laitkor\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\bin\Debug\netcoreapp2.1\web.config
+F:\Laitkor\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\bin\Debug\netcoreapp2.1\appsettings.Development.json
+F:\Laitkor\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\bin\Debug\netcoreapp2.1\appsettings.json
+F:\Laitkor\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\bin\Debug\netcoreapp2.1\aws-lambda-tools-defaults.json
+F:\Laitkor\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\bin\Debug\netcoreapp2.1\libman.json
+F:\Laitkor\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+F:\Laitkor\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\bin\Debug\netcoreapp2.1\RPMCRUDAPIs.deps.json
+F:\Laitkor\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\bin\Debug\netcoreapp2.1\RPMCRUDAPIs.runtimeconfig.json
+F:\Laitkor\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\bin\Debug\netcoreapp2.1\RPMCRUDAPIs.runtimeconfig.dev.json
+F:\Laitkor\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\bin\Debug\netcoreapp2.1\RPMCRUDAPIs.dll
+F:\Laitkor\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\bin\Debug\netcoreapp2.1\RPMCRUDAPIs.pdb
+F:\Laitkor\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\obj\Debug\netcoreapp2.1\RPMCRUDAPIs.RazorTargetAssemblyInfo.cache
+F:\Laitkor\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\obj\Debug\netcoreapp2.1\RPMCRUDAPIs.genruntimeconfig.cache
+E:\Annex\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\bin\Debug\netcoreapp2.1\RPMCRUDAPIs.deps.json
+E:\Annex\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\bin\Debug\netcoreapp2.1\RPMCRUDAPIs.runtimeconfig.json
+E:\Annex\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\bin\Debug\netcoreapp2.1\RPMCRUDAPIs.runtimeconfig.dev.json
+E:\Annex\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\bin\Debug\netcoreapp2.1\RPMCRUDAPIs.dll
+E:\Annex\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\bin\Debug\netcoreapp2.1\RPMCRUDAPIs.pdb
+E:\Annex\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\obj\Debug\netcoreapp2.1\RPMCRUDAPIs.csproj.CoreCompileInputs.cache
+E:\Annex\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\obj\Debug\netcoreapp2.1\RPMCRUDAPIs.RazorAssemblyInfo.cache
+E:\Annex\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\obj\Debug\netcoreapp2.1\RPMCRUDAPIs.RazorAssemblyInfo.cs
+E:\Annex\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\obj\Debug\netcoreapp2.1\RPMCRUDAPIs.AssemblyInfoInputs.cache
+E:\Annex\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\obj\Debug\netcoreapp2.1\RPMCRUDAPIs.AssemblyInfo.cs
+E:\Annex\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\obj\Debug\netcoreapp2.1\RPMCRUDAPIs.RazorTargetAssemblyInfo.cache
+E:\Annex\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\obj\Debug\netcoreapp2.1\RPMCRUDAPIs.dll
+E:\Annex\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\obj\Debug\netcoreapp2.1\RPMCRUDAPIs.pdb
+F:\Office Projects\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\bin\Debug\netcoreapp2.1\web.config
+F:\Office Projects\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\bin\Debug\netcoreapp2.1\appsettings.Development.json
+F:\Office Projects\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\bin\Debug\netcoreapp2.1\appsettings.json
+F:\Office Projects\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\bin\Debug\netcoreapp2.1\aws-lambda-tools-defaults.json
+F:\Office Projects\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\bin\Debug\netcoreapp2.1\libman.json
+F:\Office Projects\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\bin\Debug\netcoreapp2.1\RPMCRUDAPIs.deps.json
+F:\Office Projects\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\bin\Debug\netcoreapp2.1\RPMCRUDAPIs.runtimeconfig.json
+F:\Office Projects\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\bin\Debug\netcoreapp2.1\RPMCRUDAPIs.runtimeconfig.dev.json
+F:\Office Projects\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\bin\Debug\netcoreapp2.1\RPMCRUDAPIs.dll
+F:\Office Projects\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\bin\Debug\netcoreapp2.1\RPMCRUDAPIs.pdb
+F:\Office Projects\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\obj\Debug\netcoreapp2.1\RPMCRUDAPIs.AssemblyInfoInputs.cache
+F:\Office Projects\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\obj\Debug\netcoreapp2.1\RPMCRUDAPIs.AssemblyInfo.cs
+F:\Office Projects\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\obj\Debug\netcoreapp2.1\RPMCRUDAPIs.csproj.CoreCompileInputs.cache
+F:\Office Projects\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\obj\Debug\netcoreapp2.1\RPMCRUDAPIs.RazorAssemblyInfo.cache
+F:\Office Projects\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\obj\Debug\netcoreapp2.1\RPMCRUDAPIs.RazorAssemblyInfo.cs
+F:\Office Projects\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\obj\Debug\netcoreapp2.1\RPMCRUDAPIs.RazorTargetAssemblyInfo.cache
+F:\Office Projects\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\obj\Debug\netcoreapp2.1\RPMCRUDAPIs.dll
+F:\Office Projects\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\obj\Debug\netcoreapp2.1\RPMCRUDAPIs.pdb
+F:\Office Projects\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\obj\Debug\netcoreapp2.1\RPMCRUDAPIs.genruntimeconfig.cache
+C:\Ashok\Medical company\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\bin\Debug\netcoreapp2.1\web.config
+C:\Ashok\Medical company\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Ashok\Medical company\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Ashok\Medical company\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\bin\Debug\netcoreapp2.1\aws-lambda-tools-defaults.json
+C:\Ashok\Medical company\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\bin\Debug\netcoreapp2.1\libman.json
+C:\Ashok\Medical company\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\bin\Debug\netcoreapp2.1\RPMCRUDAPIs.deps.json
+C:\Ashok\Medical company\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\bin\Debug\netcoreapp2.1\RPMCRUDAPIs.runtimeconfig.json
+C:\Ashok\Medical company\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\bin\Debug\netcoreapp2.1\RPMCRUDAPIs.runtimeconfig.dev.json
+C:\Ashok\Medical company\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\bin\Debug\netcoreapp2.1\RPMCRUDAPIs.dll
+C:\Ashok\Medical company\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\bin\Debug\netcoreapp2.1\RPMCRUDAPIs.pdb
+C:\Ashok\Medical company\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\obj\Debug\netcoreapp2.1\RPMCRUDAPIs.AssemblyInfoInputs.cache
+C:\Ashok\Medical company\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\obj\Debug\netcoreapp2.1\RPMCRUDAPIs.AssemblyInfo.cs
+C:\Ashok\Medical company\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\obj\Debug\netcoreapp2.1\RPMCRUDAPIs.csproj.CoreCompileInputs.cache
+C:\Ashok\Medical company\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\obj\Debug\netcoreapp2.1\RPMCRUDAPIs.RazorAssemblyInfo.cache
+C:\Ashok\Medical company\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\obj\Debug\netcoreapp2.1\RPMCRUDAPIs.RazorAssemblyInfo.cs
+C:\Ashok\Medical company\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\obj\Debug\netcoreapp2.1\RPMCRUDAPIs.RazorTargetAssemblyInfo.cache
+C:\Ashok\Medical company\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\obj\Debug\netcoreapp2.1\RPMCRUDAPIs.dll
+C:\Ashok\Medical company\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\obj\Debug\netcoreapp2.1\RPMCRUDAPIs.pdb
+C:\Ashok\Medical company\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\obj\Debug\netcoreapp2.1\RPMCRUDAPIs.genruntimeconfig.cache
+C:\Ashok\Medical company\Annex_iOT\RPMCRUDAPIs\RPMCRUDAPIs\obj\Debug\netcoreapp2.1\RPMCRUDAPIs.csprojAssemblyReference.cache
