@@ -3,6 +3,7 @@
     <TargetFramework>netcoreapp2.1</TargetFramework>
     <GenerateRuntimeConfigurationFiles>true</GenerateRuntimeConfigurationFiles>
     <AWSProjectType>Lambda</AWSProjectType>
+    <UserSecretsId>fd423faf-a33e-4094-81c4-5b46811ba8e3</UserSecretsId>
   </PropertyGroup>
   <ItemGroup>
     <Compile Remove="DBConfig\Ddb_Client.cs" />
