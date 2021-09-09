@@ -24,6 +24,7 @@ namespace RPMCRUDAPIs.Controllers
     {
         static HttpClient client = new HttpClient();
         string practiceid = "24451";
+        string deptId = "1";
 
         Department department;
         Appointment appointment; 
@@ -48,6 +49,11 @@ namespace RPMCRUDAPIs.Controllers
         {
             department = new Department();
             appointment = new Appointment();
+            if (value != null)
+            {
+                practiceid = value.PracticeId;
+                deptId = value.DeptId;
+            }
             string result = await GetToken(value);
             return Ok(result);
         }
@@ -93,10 +99,13 @@ namespace RPMCRUDAPIs.Controllers
 
                                 // Once get department then get open slots
                                 string aptResult  = await GetOpenSlots(practiceid, department, token);
-
+                                if (appointment == null)
+                                {
+                                    return "No Appointment avlaible on this location";
+                                }
                                 if (aptResult == "")
                                 {
-                                  string patientResult = await  CreatePatient(value, practiceid, department.departmentid, appointment.appointmentid, token);
+                                    string patientResult = await  CreatePatient(value, practiceid, department.departmentid, appointment.appointmentid, token);
                                     result = patientResult;
                                     return result;
                                 }//Create Patient
@@ -166,7 +175,7 @@ namespace RPMCRUDAPIs.Controllers
                     var result = streamReader.ReadToEnd();
                     DepartmentRoot depts = JsonConvert.DeserializeObject<DepartmentRoot>(result);
                     // we only need department which id is 1.
-                    deptresult = depts.departments.Where(p => p.departmentid == "1").FirstOrDefault();
+                    deptresult = depts.departments.Where(p => p.departmentid == deptId).FirstOrDefault();
 
                 }
                 department.departmentid = deptresult.departmentid;
