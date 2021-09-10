@@ -346,7 +346,9 @@ namespace RPMCRUDAPIs.Controllers
                         {
                             ApptConfirmation confirm = new ApptConfirmation();
                             confirm = confirmation[0];
-                            confirmationresult = "You confirmation Details :" + confirm.date + " Appointmentid: " + confirm.appointmentid + " Appointmentstatus: " + confirm.appointmentstatus; ;
+                            confirm.patientFName = request.Firstname;
+                            confirm.patientLName = request.Lastname;
+                            confirmationresult = "You confirmation Details : " + request.Firstname +" " + request.Lastname +" Date/Time: " +confirm.date + " Appointmentid: " + confirm.appointmentid + " Appointmentstatus: " + confirm.appointmentstatus; ;
                             return confirmationresult;
 
                             //Boom Appt.

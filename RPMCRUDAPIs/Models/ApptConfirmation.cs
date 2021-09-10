@@ -13,6 +13,10 @@ namespace RPMCRUDAPIs.Models
         public string departmentid { get; set; }
         public string appointmentstatus { get; set; }
         public string patientid { get; set; }
+        public string patientFName { get; set; }
+
+        public string patientLName { get; set; }
+
         public int duration { get; set; }
         public string appointmenttypeid { get; set; }
         public string appointmenttype { get; set; }
